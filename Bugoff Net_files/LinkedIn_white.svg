@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 215 215" style="enable-background:new 0 0 215 215;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#FFFFFF;}
+	.st1{fill:#009999;}
+</style>
+<g id="LinkedIn">
+	<path id="Background" class="st0" d="M0,103.2c0-48.65,0-73,15.11-88.09S54.55,0,103.2,0h8.6c48.65,0,73,0,88.09,15.11
+		S215,54.55,215,103.2v8.6c0,48.65,0,73-15.11,88.09S160.45,215,111.8,215h-8.6c-48.65,0-73,0-88.09-15.11S0,160.45,0,111.8V103.2z"
+		/>
+	<g id="LinkedIn-2">
+		<rect id="LinkedIn-3" x="32.31" y="82.03" class="st1" width="32" height="103.24"/>
+		<path id="LinkedIn-4" class="st1" d="M145.88,80.01c-12.39-1.04-23.74,6.19-29.94,16.51V82.07H84.97v103.17h32v-51.59
+			c0-13.43,3.09-26.84,19.64-26.84s16.51,15.43,16.51,27.86v50.57h32l-1.04-55.76C184.09,101.64,178.9,80.01,145.88,80.01z"/>
+		<circle id="LinkedIn-5" class="st1" cx="47.8" cy="48.98" r="18.58"/>
+	</g>
+</g>
+</svg>
